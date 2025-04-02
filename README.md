@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AgainstRedsoft
+- 👋 Hi, I’m @Fred Shi
 - 👀 I’m interested in Environmental Modelling
 - 🌱 I’m currently learning Environmental Engineering
 - 💞️ I’m looking to collaborate on ...
